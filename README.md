@@ -3,6 +3,19 @@
 
 An intelligent Connect Four game featuring a competitive AI opponent powered by the minimax algorithm with alpha-beta pruning. Built with Python and Pygame, this project demonstrates advanced game theory concepts and AI decision-making in a classic two-player strategy game.
 
+---
+
+## 📸 Demo
+
+<details>
+  <summary><b>🎬 Watch Game Demo</b></summary>
+
+  https://github.com/user-attachments/assets/8f711df2-b655-404c-8027-a0ca4f180b6d
+
+</details>
+  
+---
+
 ## Features
 
 - **Minimax AI with Alpha-Beta Pruning**: Efficient game tree search that evaluates thousands of positions per move
@@ -50,3 +63,4 @@ An intelligent Connect Four game featuring a competitive AI opponent powered by 
 - **Performance Optimization**: Improve AI response time at higher search depths, particularly during mid-game positions where the branching factor is largest
 - **Bitboard Implementation**: Migrate from array-based board representation to bitboards for faster position evaluation and move generation
 - **Reinforcement Learning Integration**: Train the AI through self-play using Q-Learning or Deep Q-Networks to learn optimal strategies and improve decision-making beyond hand-crafted heuristics
+
